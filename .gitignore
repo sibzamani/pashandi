@@ -1,2 +1,4 @@
 desc.txt
 mahdi/
+*.txt
+!working.txt
